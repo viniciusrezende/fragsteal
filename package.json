@@ -1,0 +1,28 @@
+{
+  "name": "fragsteal",
+  "version": "0.1.0",
+  "description": "A silly Discord bot",
+  "main": "discord_bot.js",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "opusscript": "^0.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viniciusrezende/fragsteal.git"
+  },
+  "keywords": [
+    "bot",
+    "discord"
+  ],
+  "author": "Vinicius Rezende",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/viniciusrezende/fragsteal/issues"
+  },
+  "homepage": "https://github.com/viniciusrezende/fragsteal#readme"
+}
